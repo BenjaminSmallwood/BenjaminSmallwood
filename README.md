@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BenjaminSmallwood
 - 👀 I’m interested in running, coding, gaming, and eating!
-- 🌱 I’m currently learning the MERN stack.
+- 🌱 I’m currently digging into Wordpress development
 - 📫 Reach me by email: ben.smallwood98@gmail.com
 
 <!---
