@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @BenjaminSmallwood
-- 👀 I’m interested in running, coding, gaming, and eating!
-- 🌱 I’m currently digging into Wordpress development
+- 👋 Hi, I’m Ben
+- 👀 I’m interested in 3d printng, coding, gaming, and digital minimalism!
+- 🌱 I’m currently digging into Wordpress development and Astro JS
 - 📫 Reach me by email: ben.smallwood98@gmail.com
 
 <!---
